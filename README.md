@@ -5,4 +5,4 @@ this is a demo repository.
 Shradha Khapra 
 
 # Student 
-Delta Student 
+Delta Student
